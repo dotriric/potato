@@ -1,0 +1,11 @@
+body {
+  background-color: #D18800;
+  color: orange;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  font-size: 3 rem;
+}
